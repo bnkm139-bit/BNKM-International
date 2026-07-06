@@ -9,8 +9,8 @@ from scenes import REFINERY, OFFSHORE, ONSHORE, FIG, BAND
 OUT = os.path.dirname(os.path.abspath(__file__))
 
 # ---- Custom domain (GitHub Pages). Change this ONE line + the CNAME file. ----
-DOMAIN = "bnkminternational.com"
-SITE = f"https://{DOMAIN}"
+DOMAIN = "bnkminternational.co.uk"
+SITE = f"https://bnkminternational.co.uk"
 
 # ---- Brand logo, inlined as a data URI so pages render standalone anywhere ----
 with open(os.path.join(OUT, "assets", "_logo_inline.jpg"), "rb") as _f:
