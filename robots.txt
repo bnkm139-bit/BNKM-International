@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bnkminternational.co.uk/sitemap.xml
